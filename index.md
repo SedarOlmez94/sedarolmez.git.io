@@ -15,6 +15,7 @@ I received a joint scholarship from both the Economic and Social Research Counci
 
 ## Education
 - MSci in Computer Science at King's College London 2014 - 2018
+- Bogazici University Summer School 2017 - 2017
 - PhD in Geography at University of Leeds 2018 - 2023
 - The Alan Turing Institute fellow 2018 - 2023
 
