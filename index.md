@@ -20,6 +20,8 @@ I received a joint scholarship from both the Economic and Social Research Counci
 - PhD in Geography at University of Leeds 2018 - 2023
 - The Alan Turing Institute fellow 2018 - 2023
 
+## Work experience
+Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
 
 ```markdown
 Syntax highlighted code block
