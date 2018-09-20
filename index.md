@@ -1,5 +1,7 @@
 ## About me
-![image of me](my_image.jpg)
+<p align="center">
+  <img width="300" height="300" src="my_image.jpg">
+</p>
 
 A graduate computer scientist. Some of the projects I participated in can be found on my [github](https://github.com/SenatorCorvix) page and some of the papers I wrote during my bachelors degree including my dissertation titled: How to optimise political influence using argumentation, can be found on my [academia](https://kcl.academia.edu/SedarOlmez) page. 
 
