@@ -27,8 +27,8 @@ Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133
 
 ### Contact
 Email: gysol@leeds.ac.uk
-Leeds Institute for Data Analytics
-Level 11, Worsley Building
-Clarendon Way
-Leeds
-LS2 9NL
+> Leeds Institute for Data Analytics
+> Level 11, Worsley Building
+> Clarendon Way
+> Leeds
+> LS2 9NL
