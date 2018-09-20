@@ -11,6 +11,7 @@ I received a joint scholarship from both the Economic and Social Research Counci
 - Artificial intelligence planning
 - Geocomputation
 - Argumentation theory
+- Smart cities
 
 ## Education
 - MSci in Computer Science at King's College London 2014 - 2018
