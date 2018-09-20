@@ -26,9 +26,9 @@ My [research](research_page.md) page.
 Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
 
 ### Contact
-Email: gysol@leeds.ac.uk<br/> 
-Leeds Institute for Data Analytics<br/> 
-Level 11, Worsley Building<br/>  
-Clarendon Way<br/> 
-Leeds<br/>  
+Email: gysol@leeds.ac.uk<br/>
+Leeds Institute for Data Analytics<br/>
+Level 11 Worsley Building<br/>
+Clarendon Way<br/>
+Leeds<br/>
 LS2 9NL
