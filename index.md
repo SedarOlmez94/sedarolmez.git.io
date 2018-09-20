@@ -14,6 +14,8 @@ I received a joint scholarship from both the Economic and Social Research Counci
 - Argumentation theory
 - Smart cities
 
+My [research](research_page.md) page. 
+
 ## Education
 - MSci in Computer Science at King's College London 2014 - 2018
 - Bogazici University Summer School 2017 - 2017
