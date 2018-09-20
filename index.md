@@ -18,7 +18,7 @@ My [research](research_page.md) page.
 
 ## Education
 - MSci in Computer Science at King's College London 2014 - 2018
-- Bogazici University Summer School 2017 - 2017
+- Bogazici University Summer School 2017
 - PhD in Geography at University of Leeds 2018 - 2023
 - The Alan Turing Institute fellow 2018 - 2023
 
