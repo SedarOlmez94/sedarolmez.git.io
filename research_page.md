@@ -4,6 +4,9 @@ This page contains all my research projects developed during my PhD at the Alan 
 ### Agent Based Model 21/09/2018
 
 
+[__Click here for repository__](https://github.com/SedarOlmez94/programming_for_social_sciences/tree/working_copy)
+
+
 I participated in the module titled: __Programming for Social Science: Core Skills GEOG5995M__ at the Leeds Institute for Data Analytics (LIDA) where I developed an agent based model using python with an external library __matplotlib__ and __Atom__ IDE. Two versions of the software was developed a __core__ version and __poacher edition__:
 
 
