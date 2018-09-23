@@ -12,5 +12,9 @@ num_of_agents = 10
 neighbourhood = 10
 ```
   The variables above can be changed before run-time to produce different results, but given these variable intialisations, we
-  get something like this: 
-  ![simulation_v1](simulation_v1.gif)
+  get something like this:
+
+
+<p align="center">
+  <img width="500" height="500" src="simulation_v1.gif">
+</p>
