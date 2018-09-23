@@ -37,5 +37,5 @@ The __poacher edition__ is demonstrated below:
 
 
 <p align="center">
-  <img width="500" height="500" src="Poacherexecution.gif">
+  <img width="600" height="600" src="Poacherexecution.gif">
 </p>
