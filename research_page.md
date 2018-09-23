@@ -5,7 +5,8 @@ This page contains all my research projects developed during my PhD at the Alan 
 
 
 I participated in the module titled: __Programming for Social Science: Core Skills GEOG5995M__ at the Leeds Institute for Data Analytics (LIDA) where I developed an agent based model using python with an external library __matplotlib__ and __Atom__ IDE. Two versions of the software was developed a __core__ version and __poacher edition__:
-- Core: The core model contains two __.py__ sourcecode files, one is the __Agent__ object (__agentframework.py__) the other __core_code_v1.py__ (main). The model simulates an environment which contains grass (each pixel coloured green) and sheep agents that roam and consume grass. The variables are initialised within the script to unique values:
+
+- Core: The core model contains two __.py__ sourcecode files, one is the __Agent__ object (__agentframework.py__) the other __core_code_v1.py__ (main). The model simulates an environment which contains grass (each pixel coloured green) and sheep agents that roam and consume grass, sheep that are within the __neighbourhood__ distance share food. The variables are initialised within the script to unique values:
 ```
 num_of_iterations = 200
 num_of_agents = 10
