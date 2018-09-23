@@ -22,15 +22,12 @@ neighbourhood = 10 # What is the neighbourhood distance for sharing.
 </p>
 
 - Poacher edition: I decided to add new features to the simulation. I wrote a new script called __core_code_v2.py__ which is the main that uses the same object __agentframework.py__ but this time we have a __poacher__ agent which shoots sheep that are in close proximity to it (I'm definitely against poaching, this was just a fun experiment). The script now takes an extra value (poacher_neighbourhood) and these values are initialised in the terminal to execute the script using the __sys__ library. 
-
-
 ```
 num_of_iterations = int(sys.argv[1])
 num_of_agents = int(sys.argv[2])
 neighbourhood = int(sys.argv[3])
 poacher_neighbourhood = int(sys.argv[4]) #The fourth argument, the minimum distance a sheep needs to be to a poacher for it to shoot.
 ```
-
 The script is executed as such:
 ![terminal](terminal.png)
 (Note: the terminal screenshot was taken before name changes, so the script is actually called core_code_v2.py and not core_code.py, poacher kill range is the poacher_neighbourhood).
