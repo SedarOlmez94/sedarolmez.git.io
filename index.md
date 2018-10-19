@@ -24,7 +24,7 @@ My [research](research_page.md) page.
 - MSci in Computer Science at King's College London 2014 - 2018
 - Bogazici University Summer School 2017
 - PhD in Geography at University of Leeds 2018 - 2023
-- The Alan Turing Institute fellow 2018 - 2023
+- The Alan Turing Institute Doctoral Student 2018 - 2023
 
 ## Work experience
 Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
