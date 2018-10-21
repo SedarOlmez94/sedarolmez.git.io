@@ -8,12 +8,15 @@ A graduate computer scientist. Some of the projects I participated in can be fou
 I received a joint scholarship from both the Economic and Social Research Council and The Alan Turing Institute to carry out research in the field of computer science/geocomputation, mainly my research involves intelligent agents and smart cities. I am currently based at the University of Leeds at the Leeds Institute for Data Analytics. 
 
 ## Research interests
+Sedar will be focusing on data analytics and smart cities, developing a programming library to try simulate how policies can impact a small world of autonomous intelligent agents to try deduce positive or negative impact in the long run. If the impact is positive and this is conveyed collectively taking into consideration the agent's health, happiness and other social characteristics then the policy can be considered. Furthermore, he will work on agent based modelling to solve and provide faster solutions to economic and social elements of society, establishing applied and theoretical answers. Some other interests are: 
+
 - Multi-agent systems
 - Intelligent agents
 - Natural language processing
 - Artificial intelligence planning
 - Machine learning
 - Neural networks
+- Genetic programming
 - Geocomputation
 - Argumentation theory
 - Smart cities
