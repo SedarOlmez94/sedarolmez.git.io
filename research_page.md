@@ -42,3 +42,9 @@ The __poacher edition__ is demonstrated below:
 <p align="center">
   <img width="600" height="600" src="Poacherexecution.gif">
 </p>
+
+
+### Linear regression with gradient descent 13/11/2018
+
+
+[__Click here for repository__](https://github.com/SedarOlmez94/coursework_2_LIDA)
