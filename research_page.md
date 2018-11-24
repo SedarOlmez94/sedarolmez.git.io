@@ -70,5 +70,5 @@ Here are the important links:
 
 The libraries used in my project as as follows:
 <p align="center">
-  <img height=200 width=400 src="libraries.png">
+  <img height="200" width="400" src="libraries.png">
 </p>
