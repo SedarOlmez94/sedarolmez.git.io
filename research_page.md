@@ -68,7 +68,7 @@ Here are the important links:
 - [PDF report](https://github.com/SedarOlmez94/coursework_2_LIDA/blob/master/simple-linear-regression.pdf)
 - [UML use case diagram](https://github.com/SedarOlmez94/coursework_2_LIDA/blob/master/UML%20usecase%20diagram.png)
 
-The libraries used in my project as as follows:
+The libraries used in my project are as follows:
 <p align="center">
   <img height="200" width="400" src="libraries.png">
 </p>
