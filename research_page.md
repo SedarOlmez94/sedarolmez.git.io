@@ -62,3 +62,13 @@ My software model was developed in Python but written in Jupyter Notebook so all
 1. Change directory to the same directory as Linear regression.ipynb
 2. Type the command: jupyter notebook "Linear regression.ipynb"
 ```
+
+Here are the important links:
+- [Linear Regression.ipynb](https://github.com/SedarOlmez94/coursework_2_LIDA/blob/master/Linear%20regression.ipynb)
+- [PDF report](https://github.com/SedarOlmez94/coursework_2_LIDA/blob/master/simple-linear-regression.pdf)
+- [UML use case diagram](https://github.com/SedarOlmez94/coursework_2_LIDA/blob/master/UML%20usecase%20diagram.png)
+
+The libraries used in my project as as follows:
+<p align="center">
+  <img width="400" height="400" src="libraries.png">
+</p>
