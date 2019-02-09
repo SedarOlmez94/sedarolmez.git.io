@@ -72,3 +72,26 @@ The libraries used in my project are as follows:
 <p align="center">
   <img height="200" width="400" src="libraries.png">
 </p>
+
+
+### Data Modelling of Global Bike Sharing 09/02/2019
+
+
+[__Click here for repository__](https://github.com/Urban-Analytics/SmartSocialCity/tree/master/Machine%20Learning/Bike%20Sharing%20Project)
+
+The libraries required to execute the `data_modelling_bike_sharing_global.ipynb` script are:
+```
+1. matplotlib
+2. numpy
+3. scikit
+4. IPython
+5. seaborn
+6. pandas
+7. zlib
+```
+
+The `data_modelling_bike_sharing_global.ipynb` notebook file can be executed in a conda environment, to create one read the guide here [Virtual Environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/).
+
+
+The code has been fully commented and documented for reference. 
+
