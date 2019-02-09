@@ -92,6 +92,9 @@ The libraries required to execute the `data_modelling_bike_sharing_global.ipynb`
 
 The `data_modelling_bike_sharing_global.ipynb` notebook file can be executed in a conda environment, to create one read the guide here [Virtual Environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/).
 
+The Jupyter notebook can be found here: [notebook](https://github.com/Urban-Analytics/SmartSocialCity/blob/master/Machine%20Learning/Bike%20Sharing%20Project/data_modelling_bike_sharing_global.ipynb)
+
+A static HTML version can be found here: [html notebook](https://github.com/Urban-Analytics/SmartSocialCity/blob/master/Machine%20Learning/Bike%20Sharing%20Project/data_modelling_bike_sharing_global.html)
 
 The code has been fully commented and documented for reference. 
 
