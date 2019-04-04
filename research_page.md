@@ -149,3 +149,90 @@ crime occurs somewhere CRIME_LOCATION
 
 
 2) A run of the system:
+<p align="center">
+  <img width="500" height="500" src="model.png">
+</p>
+
+(1)
+`setup` - load the GIS data into the agent based model software.
+`go` - run one iteration of the model.
+`watch crime` - view a crime.
+`reset perspective` - focus on the entire map not a single crime.
+(2)
+The two views on the left `units of resource required for crime 1/2` presents the number of resources (each force region in which an incident resides) required to diffuse the incident.
+On the right, the number of resources pulled given the timeframe to diffuse each incident.
+(3)
+These buttons allow the user to move around the map.
+(4)
+`print dataset` - prints the dataset on the terminal.
+`print labels` - prints the labels of the dataset (column names) on the temrinal.
+
+
+3) The terminal output of the model:
+```
+Minimise impact on: B for incident 1 and for incident 2: A
+All the resources we can use for incident 1: [13 107 25 20 1 12 6 10 77 7 22 19 5 6 1 19 1 1 21 1 5 20 11 3 57 19 7 5 5 5 10 3 57 6] and all their times to mobilise [7 7 0 0 8 3 0 0 1 4 2 1 0 1 2 0 0 7 8 5 4 1 6 8 0 0 5 1 6 5 7 7 4 4 7]
+All the resources we can use for incident 2: [24 21 47 5 66 9 1 56 19 13 75 125 1 6 18 34 10 102 7 78 1 82 7 5 5 16 3 5 19 48 42 1 57 36] and all their times to mobilise [4 7 8 8 1 4 0 7 4 5 0 7 5 1 0 1 3 7 2 1 8 7 0 6 4 0 6 0 1 0 5 7 0 2 0]
+crime_units_required_1: 110
+crime_units_required_2: 160
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 6 FROM POLICE FORCE: 2 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 25.870481592667748
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 5 FROM POLICE FORCE: 39 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 14.60555127546399
+X: [-1 -1]
+observer: [-1 -1]
+CRIME_UNITS: 104
+crime_units_required_1: 104
+crime_units_required_2: 155
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 19 FROM POLICE FORCE: 5 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 27.328452233468916
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 47 FROM POLICE FORCE: 40 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 18.605551275463988
+X: [0 0 -1 -1]
+observer: [0 0 -1 -1]
+CRIME_UNITS: 85
+crime_units_required_1: 85
+crime_units_required_2: 108
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 5 FROM POLICE FORCE: 21 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 22.373380211096357
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 13 FROM POLICE FORCE: 6 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 18.39834563766817
+X: [1 1 0 0 -1 -1]
+observer: [1 1 0 0 -1 -1]
+CRIME_UNITS: 80
+crime_units_required_1: 80
+crime_units_required_2: 95
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 5 FROM POLICE FORCE: 1 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 7.82842712474619
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 5 FROM POLICE FORCE: 1 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 7.82842712474619
+X: [2 2 1 1 0 0 -1 -1]
+observer: [2 2 1 1 0 0 -1 -1]
+CRIME_UNITS: 75
+crime_units_required_1: 75
+crime_units_required_2: 90
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 6 FROM POLICE FORCE: 42 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 22.609448188596147
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 5 FROM POLICE FORCE: 16 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 20.364084996010927
+X: [3 3 2 2 1 1 0 0 -1 -1]
+observer: [3 3 2 2 1 1 0 0 -1 -1]
+CRIME_UNITS: 69
+crime_units_required_1: 69
+crime_units_required_2: 85
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 10 FROM POLICE FORCE: 29 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 24.010469622751657
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 57 FROM POLICE FORCE: 38 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 25.9405762185524
+X: [4 4 3 3 2 2 1 1 0 0 -1 -1]
+observer: [4 4 3 3 2 2 1 1 0 0 -1 -1]
+CRIME_UNITS: 59
+crime_units_required_1: 59
+crime_units_required_2: 28
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 6 FROM POLICE FORCE: 27 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 18.697935531433117
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 3 FROM POLICE FORCE: 26 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 15.097452068300653
+X: [5 5 4 4 3 3 2 2 1 1 0 0 -1 -1]
+observer: [5 5 4 4 3 3 2 2 1 1 0 0 -1 -1]
+CRIME_UNITS: 53
+crime_units_required_1: 53
+crime_units_required_2: 25
+FOR INCIDENT 1 RESOURCE TO SUBTRACT: 19 FROM POLICE FORCE: 36 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 14.255832815336873
+FOR INCIDENT 2 RESOURCE TO SUBTRACT: 19 FROM POLICE FORCE: 36 TIME IT TAKES FOR RESOURCES TO REACH DESTINATION: 14.255832815336875
+X: [6 6 5 5 4 4 3 3 2 2 1 1 0 0 -1 -1]
+observer: [6 6 5 5 4 4 3 3 2 2 1 1 0 0 -1 -1]
+CRIME_UNITS: 34
+units provided for incident 1: 34 units provided for incident 2: 6
+resources requirement cycles for incident 1: 0 resources requirement cycles for incident 2: 0
+```
+ - First line: The types of resource we want to minimise the impact on (use less of) for incident 1 `B` and for incident 2 `A`.
+ - All the `resources` we can use for incident 1 and incident 2 and their `times to mobilise`.
+ - Each iteration states the `resource`, the `forces ID` and the `time` it takes for the resource to reach the incident.
+ - Each incident had an 8 day `resource_requirement_cycle` as we had 8 iterations of supply and demand. 
