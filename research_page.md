@@ -110,7 +110,7 @@ The libraries required to execute the `N20_DATA_ANALYSIS.ipynb` script are alrea
 I was provided with a complex dataset containing information about crop growth, I developed some machine learning methods to analyse the specific dataset and gain some insights as to how N20 is effected by various elments captured.
 
 
-### Modelling the supply and demand of the UK Police Forces, an Agent Based Modelling approach 03/04/2019
+### Modelling the supply and demand of UK Police Forces, an Agent Based Modelling approach 03/04/2019
 
 
 (Note, this project is ongoing. All information regarding the project can be found on its website: [Turing page](https://www.turing.ac.uk/research/research-projects/computational-models-police-demand-dynamics))
