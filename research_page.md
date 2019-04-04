@@ -102,6 +102,8 @@ The code has been fully commented and documented for reference.
 
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/solmez/projects/n20-data-analysis)
+
+
 The libraries required to execute the `N20_DATA_ANALYSIS.ipynb` script are already installed on the Azure cluster used to host the notebook via `requirements.txt`
 
 
