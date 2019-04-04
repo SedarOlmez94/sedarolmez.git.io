@@ -156,13 +156,21 @@ crime occurs somewhere CRIME_LOCATION
 
 (1)
 `setup` - load the GIS data into the agent based model software.
+
+
 `go` - run one iteration of the model.
+
+
 `watch crime` - view a crime.
+
+
 `reset perspective` - focus on the entire map not a single crime.
 
 
 (2)
 The two views on the left `units of resource required for crime 1/2` presents the number of resources (each force region in which an incident resides) required to diffuse the incident.
+
+
 On the right, the number of resources pulled given the timeframe to diffuse each incident.
 
 
@@ -172,6 +180,8 @@ These buttons allow the user to move around the map.
 
 (4)
 `print dataset` - prints the dataset on the terminal.
+
+
 `print labels` - prints the labels of the dataset (column names) on the temrinal.
 
 
