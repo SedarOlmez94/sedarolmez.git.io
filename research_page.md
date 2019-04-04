@@ -155,6 +155,8 @@ crime occurs somewhere CRIME_LOCATION
 
 
 (1)
+
+
 `setup` - load the GIS data into the agent based model software.
 
 
@@ -168,6 +170,8 @@ crime occurs somewhere CRIME_LOCATION
 
 
 (2)
+
+
 The two views on the left `units of resource required for crime 1/2` presents the number of resources (each force region in which an incident resides) required to diffuse the incident.
 
 
@@ -175,10 +179,14 @@ On the right, the number of resources pulled given the timeframe to diffuse each
 
 
 (3)
+
+
 These buttons allow the user to move around the map.
 
 
 (4)
+
+
 `print dataset` - prints the dataset on the terminal.
 
 
