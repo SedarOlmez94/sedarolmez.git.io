@@ -98,3 +98,12 @@ A static HTML version can be found here: [html notebook](https://github.com/Urba
 
 The code has been fully commented and documented for reference. 
 
+### N20 crop growth data analysis using machine learning methods 26/03/2019
+
+
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/solmez/projects/n20-data-analysis)
+The libraries required to execute the `N20_DATA_ANALYSIS.ipynb` script are already installed on the Azure cluster used to host the notebook via `requirements.txt`
+
+
+I was provided with a complex dataset containing information about crop growth, I developed some machine learning methods to analyse the specific dataset and gain some insights as to how N20 is effected by various elments captured. 
+
