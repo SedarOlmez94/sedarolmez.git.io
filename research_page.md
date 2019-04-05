@@ -103,7 +103,7 @@ The code has been fully commented and documented for reference.
 
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/solmez/projects/n20-data-analysis)
-(Note, you must have an Azure Notebook account, the reason I had to use cloud computing was due to the size of the dataset.)
+(Note, the reason I had to use cloud computing was due to the size of the dataset.)
 
 
 The libraries required to execute the `N20_DATA_ANALYSIS.ipynb` script are already installed on the Azure cluster used to host the notebook via `requirements.txt`
