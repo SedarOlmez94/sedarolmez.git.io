@@ -263,3 +263,24 @@ resources requirement cycles for incident 1: 0 resources requirement cycles for 
  - All the `resources` we can use for incident 1 and incident 2 and their `times to mobilise`.
  - Each iteration states the `resource`, the `forces ID` and the `time` it takes for the resource to reach the incident.
  - Each incident had an 8 day `resource_requirement_cycle` as we had 8 iterations of supply and demand. 
+
+
+### Sales forecasting using deep learning techniques 21/05/2019
+
+
+[__Click here for repository__](https://github.com/SedarOlmez94/sales-forecasting)
+
+The libraries that need to be downloaded to run the script are:
+```
+1. matplotlib
+2. numpy
+3. scikit
+5. Seaborn
+6. Pandas
+7. Scipy
+8. Statsmodels
+9. Datawig
+```
+
+The library Datawig can be found here: https://datawig.readthedocs.io/en/latest/ All of the work is reproducible and can be found in the [predictive_modelling.ipynb](https://github.com/SedarOlmez94/sales-forecasting/blob/master/predictive_modelling.ipynb) notebook. 
+
