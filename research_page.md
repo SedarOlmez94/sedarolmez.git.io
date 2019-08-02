@@ -284,3 +284,28 @@ The libraries that need to be downloaded to run the script are:
 
 The library Datawig can be found here: https://datawig.readthedocs.io/en/latest/ All of the work is reproducible and can be found in the [predictive_modelling.ipynb](https://github.com/SedarOlmez94/sales-forecasting/blob/master/predictive_modelling.ipynb) notebook. 
 
+
+### Crime exploration in Greater London using data from police.gov 27/06/2019
+
+
+[__Click here for report__](http://rpubs.com/sedar_olmez/crime_exploration)
+
+The research questions to be answered were:
+* Using police crime records from 2018-05 to 2019-05, can we produce a spatial map of crime type distributions across Greater London and cluster these to gain further insight on how crime evolves over space?
+* will this help us distribute the correct type of resources to tackle hot points of specific crime incidences?
+* is there a correlation between the drug related incidences and the incidences of anti-social behaviour across London?
+
+#### Executive summary
+Crime data provided by Police Forces in London over a 12 month period will be used to produce multiple visualisations of crime type distributions over space and time. Machine Learning techniques, more specifically cluster analysis will then be used on the data to derive the crime type hotspots across London which should aide police resource allocation.
+
+#### References
+Dustmann, Christian, and Francesco Fasani. 2016. “The Effect of Local Area Crime on Mental Health.” Economic Journal. https://doi.org/10.1111/ecoj.12205.
+
+Malleson, Nick, and Martin A. Andresen. 2016. “Exploring the impact of ambient population measures on London crime hotspots.” Journal of Criminal Justice. https://doi.org/10.1016/j.jcrimjus.2016.03.002.
+
+Stafford, Mai, Tarani Chandola, and Michael Marmot. 2007. “Association between fear of crime and mental health and physical functioning.” American Journal of Public Health. https://doi.org/10.2105/AJPH.2006.097154.
+
+Sutherland, Alex, Ian Brunton-Smith, and Jonathan Jackson. 2013. “Collective efficacy, deprivation and violence in London.” British Journal of Criminology. https://doi.org/10.1093/bjc/azt050.
+
+Whitley, Rob, and Martin Prince. 2005. “Fear of crime, mobility and mental health in inner-city London, UK.” Social Science and Medicine. https://doi.org/10.1016/j.socscimed.2005.03.044.
+
