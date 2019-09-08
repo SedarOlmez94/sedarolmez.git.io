@@ -1,6 +1,6 @@
 ## About me
 <p align="center">
-  <img width="200" height="200" src="my_image.jpg">
+  <img width="200" height="200" src="AppleTeacher.png">
 </p>
 
 A graduate computer scientist. Some of the projects I participated in can be found on my [github](https://github.com/SedarOlmez94) page and some of the papers I wrote during my bachelors degree including my dissertation titled: How to optimise political influence using argumentation, can be found on my [academia](https://kcl.academia.edu/SedarOlmez) page. 
