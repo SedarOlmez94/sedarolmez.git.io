@@ -32,6 +32,7 @@ My [research](research_page.md) page.
 ## Conference submissions
 * GISRUK 2019: Location: University of Newcastle, Title: Modelling the dynamics of police demand and resourcing over space and time, Download: https://github.com/geospatialncl/gisruk2019_papers/raw/master/papers/presentations_short/TrackB/GISRUK_2019_paper_16.pdf
 * American Geophysical Union Fall Meeting 2019: Location: San Francisco, Title: Application of Statistical Modelling to a Field Experiment Database to Predict N20 Emissions in Sugarcane Production, Access: https://agu.confex.com/agu/fm19/prelim.cgi/Paper/554099 
+* Urban Analytics Blueprint 2019: University of Bristol, Presentation Title: Simulating all kinds of things.
 
 ## Work experience
 Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
