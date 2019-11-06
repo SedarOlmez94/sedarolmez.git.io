@@ -309,3 +309,17 @@ Sutherland, Alex, Ian Brunton-Smith, and Jonathan Jackson. 2013. “Collective e
 
 Whitley, Rob, and Martin Prince. 2005. “Fear of crime, mobility and mental health in inner-city London, UK.” Social Science and Medicine. https://doi.org/10.1016/j.socscimed.2005.03.044.
 
+
+
+### Developing a Convolutional Neural Network model to detect Mauritia Flexuosa in Peru via live UAV footage 01/11/2019
+
+
+[__Click here for repository__](https://github.com/SedarOlmez94/UAV_Mauritia_Flexuosa_ML)
+
+This repository contains work that was used to develop a RCNN model (from scratch) with a custom dataset of Mauritia Flexuosa trees in Peru. The tensorflow object detection API was used, it can be found [here](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+
+# TO RUN
+- Download the model code [here](https://drive.google.com/file/d/1dUQ7oZ82xDZMewpBd4rheEeGKY1K-oj9/view?usp=sharing)
+- Install the packages in the `requirements.txt` specifically `tensorflow 1.5`.
+- Execute the `object_detection_test.ipynb` to run the pretrained model we created.
