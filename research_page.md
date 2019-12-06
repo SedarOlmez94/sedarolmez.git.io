@@ -323,3 +323,23 @@ This repository contains work that was used to develop a RCNN model (from scratc
 - Download the model code [here](https://drive.google.com/file/d/1dUQ7oZ82xDZMewpBd4rheEeGKY1K-oj9/view?usp=sharing)
 - Install the packages in the `requirements.txt` specifically `tensorflow 1.5`.
 - Execute the `object_detection_test.ipynb` to run the pretrained model we created.
+
+
+
+### A sugarscape environment extension to the OpenAI gym python library 06/12/2019
+
+
+[__Click here for repository__](https://github.com/SedarOlmez94/gym_sugarscape)
+
+The OpenAI gym library can be found [here](https://gym.openai.com/). I developed a sugarscape environment python package which you can import and run with variables of your choosing. The implementation follows Axtell and Epsteins original design, this can be found [here](http://jasss.soc.surrey.ac.uk/12/1/6/appendixB/EpsteinAxtell1996.html)
+
+
+# TO RUN
+- Download the repository from github
+- Navigate to the gym_sugarscape/gym-sugarscape/ directory
+- Run the following command using terminal: ```pip install -e .```
+- Once installed, make sure you also ```pip install gym```
+- Now you can run the example **jupyter notebook** ```Testing_Sugarscape.ipynb```
+
+
+A model execution;
