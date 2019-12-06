@@ -343,3 +343,7 @@ The OpenAI gym library can be found [here](https://gym.openai.com/). I developed
 
 
 A model execution;
+
+<p align="center">
+  <img width="500" height="500" src="sugarscape.gif">
+</p>
