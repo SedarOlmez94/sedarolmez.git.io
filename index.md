@@ -34,7 +34,7 @@ My [research](research_page.md) page.
 * American Geophysical Union Fall Meeting 2019: Location: San Francisco, Title: Application of Statistical Modelling to a Field Experiment Database to Predict N20 Emissions in Sugarcane Production, Access: https://agu.confex.com/agu/fm19/prelim.cgi/Paper/554099 
 * Urban Analytics Blueprint 2019: University of Bristol, Presentation Title: Simulating all kinds of things.
 * GISRUK 2020: Location: UCL & Birkbeck, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment.
-* Data Science Perspectives conference 2020: Location: University of Newcastle, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment.
+* Data Science Perspectives conference 2020: Location: University of Newcastle, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment, Download: https://drive.google.com/file/d/1legmPHJdvt6kzhL-u3vumhnKd3oHCncE/view?usp=sharing
 
 ## Work experience
 Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
