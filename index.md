@@ -26,8 +26,8 @@ My [research](research_page.md) page.
 ## Education
 - MSci in Computer Science at King's College London 2014 - 2018
 - Bogazici University Summer School 2017
-- PhD in Geography at University of Leeds 2018 - 2023
-- The Alan Turing Institute Doctoral Student 2018 - 2023
+- PhD in Geocomputation at the University of Leeds 2018 - 2022
+- The Alan Turing Institute Doctoral Student 2018 - 2022
 
 ## Conference submissions
 Access the list of peer-reviewed publications and conference proceedings [here](publications_and_conference_proceedings.md)
