@@ -7,3 +7,7 @@
 - **GISRUK 2020**: Location: UCL & Birkbeck, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment.
 - **Data Science Perspectives conference 2020**: Location: University of Newcastle, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment, Download: https://drive.google.com/file/d/1legmPHJdvt6kzhL-u3vumhnKd3oHCncE/view?usp=sharing
 - **ABMUS 2020**: Location: New Zealand, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained 3D spatial environment.
+
+
+## Papers reviewed
+- 09/07/2020, Journal: SoftwareX https://www.journals.elsevier.com/softwarex/ manuscript number: SOFTX_2020_159
