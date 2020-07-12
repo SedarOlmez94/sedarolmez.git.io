@@ -32,6 +32,9 @@ My [research](research_page.md) page.
 ## Conference submissions
 Access the list of peer-reviewed publications and conference proceedings [here](publications_and_conference_proceedings.md)
 
+## Journal Reviewer
+I currently review papers submitted to the [SoftwareX](https://www.journals.elsevier.com/softwarex) Elsevier Journal, certificate of recognition can be found [here](https://github.com/SedarOlmez94/sedarolmez.git.io/blob/master/Elsevier_journal_review.pdf)
+
 ## Work experience
 Please check out my [linkedin](https://www.linkedin.com/in/sedar-olmez-44549a133/) page.
 
