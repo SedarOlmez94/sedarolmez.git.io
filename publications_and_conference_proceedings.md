@@ -1,4 +1,4 @@
-## Peer-reviewed Publications and Conference Proceedings
+## Peer-reviewed Publications, Conference Proceedings and Software Publications
 
 
 - **GISRUK 2019**: Location: University of Newcastle, Title: Modelling the dynamics of police demand and resourcing over space and time, Download: https://github.com/geospatialncl/gisruk2019_papers/raw/master/papers/presentations_short/TrackB/GISRUK_2019_paper_16.pdf
@@ -7,6 +7,7 @@
 - **GISRUK 2020**: Location: UCL & Birkbeck, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment.
 - **Data Science Perspectives conference 2020**: Location: University of Newcastle, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained spatial environment, Download: https://drive.google.com/file/d/1legmPHJdvt6kzhL-u3vumhnKd3oHCncE/view?usp=sharing
 - **ABMUS 2020**: Location: New Zealand, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained 3D spatial environment.
+- Sedar Olmez, Obi Thompson Sargoni, Alison Heppenstall, Daniel Birks, Annabel Whipp, Ed Manley (2021, January 22). “**3D Urban Traffic Simulator (ABM) in Unity**” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/32e7be8c-b05c-46b2-9b5f-73c4d273ca59/releases/1.0.0/
 
 
 ## Papers reviewed
