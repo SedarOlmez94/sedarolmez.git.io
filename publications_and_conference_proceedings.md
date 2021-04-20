@@ -9,6 +9,7 @@
 - **ABMUS 2020**: Location: New Zealand, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained 3D spatial environment.
 - Sedar Olmez, Obi Thompson Sargoni, Alison Heppenstall, Daniel Birks, Annabel Whipp, Ed Manley (2021, January 22). “**3D Urban Traffic Simulator (ABM) in Unity**” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/32e7be8c-b05c-46b2-9b5f-73c4d273ca59/releases/1.0.0/
 - **Centre for Spatial Analysis and Policy (CSAP) Cluster Meeting 2021**: Title: Investigating the emergence of complex behaviours in an agent-based model using reinforcement learning. Retrieved from: <a href="https://github.com/SedarOlmez94/sedarolmez.git.io/blob/master/sedar_olmez_CSAP2021.pdf" target="_blank">Slides</a>
+- **GIScience 2021 Conference**: Location: Poznan, Poland, Title: Do More Cars Mean More Electricity? Investigating the Relationship Between Vehicle Energy Expenditure and Vehicle Density within an Urban Environment: An Agent-Based Modelling approach. Retrieved from: https://github.com/SedarOlmez94/Agent_Based_Modelling_Projects/blob/master/TrafficSimulatorPaperForGIScience.pdf
 
 
 
