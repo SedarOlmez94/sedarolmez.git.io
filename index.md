@@ -29,7 +29,7 @@ My [research](research_page.md) page.
 - PhD in Geocomputation at the University of Leeds 2018 - 2022
 - The Alan Turing Institute Doctoral Student 2018 - 2022
 
-## Conference submissions
+## Publications and Conference Submissions
 Access the list of peer-reviewed publications and conference proceedings [here](publications_and_conference_proceedings.md)
 
 ## Journal Reviewer
