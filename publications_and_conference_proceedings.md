@@ -9,7 +9,7 @@
 - **ABMUS 2021**: Location: Remote, Title: Exploring the emergence of learned behaviour from intelligent agents in a constrained 3D spatial environment, Download proceedings at: https://figshare.com/articles/conference_contribution/International_Workshop_on_Agent-Based_Modelling_of_Urban_Systems_ABMUS_Proceedings_2020-2021/14579604
 - Sedar Olmez, Obi Thompson Sargoni, Alison Heppenstall, Daniel Birks, Annabel Whipp, Ed Manley (2021, January 22). “**3D Urban Traffic Simulator (ABM) in Unity**” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/32e7be8c-b05c-46b2-9b5f-73c4d273ca59/releases/1.0.0/
 - **Centre for Spatial Analysis and Policy (CSAP) Cluster Meeting 2021**: Title: Investigating the emergence of complex behaviours in an agent-based model using reinforcement learning. Retrieved from: <a href="https://github.com/SedarOlmez94/sedarolmez.git.io/blob/master/sedar_olmez_CSAP2021.pdf" target="_blank">Slides</a>
-- **GIScience 2021 Conference**: Location: Poznan, Poland, Title: Do More Cars Mean More Electricity? Investigating the Relationship Between Vehicle Energy Expenditure and Vehicle Density within an Urban Environment: An Agent-Based Modelling approach. Retrieved from: https://github.com/SedarOlmez94/Agent_Based_Modelling_Projects/blob/master/TrafficSimulatorPaperForGIScience.pdf
+- Paper titled: **Exploring the Impact of Driver Adherence to Speed Limits and the Interdependence of Roadside Collisions in an Urban Environment: An Agent-Based Modelling Approach**: Publication date: 08/06/2021. Retrieved from: https://doi.org/10.3390/app11125336
 
 
 ## Papers reviewed
