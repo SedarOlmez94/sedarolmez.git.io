@@ -13,5 +13,6 @@
 
 
 ## Papers reviewed
-- 09/07/2020, Journal: SoftwareX https://www.journals.elsevier.com/softwarex/ manuscript number: SOFTX_2020_159.
-- 10/05/2021, Journal: Journal of Artificial Societies and Social Simulation (JASSS) http://jasss.soc.surrey.ac.uk/JASSS.html manuscript number: 2021:55:1.
+- 09/07/2020, Journal: SoftwareX https://www.journals.elsevier.com/softwarex/ Manuscript ID: SOFTX_2020_159.
+- 10/05/2021, Journal: Journal of Artificial Societies and Social Simulation (JASSS) http://jasss.soc.surrey.ac.uk/JASSS.html Manuscript ID: 2021:55:1.
+- 30/06/2021, Journal: Environment and Planning B (SAGE) https://journals.sagepub.com/home/epb Manuscript ID EPB-2020-0317.R1
