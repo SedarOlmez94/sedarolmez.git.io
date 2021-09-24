@@ -10,6 +10,7 @@
 - Sedar Olmez, Obi Thompson Sargoni, Alison Heppenstall, Daniel Birks, Annabel Whipp, Ed Manley (2021, January 22). “**3D Urban Traffic Simulator (ABM) in Unity**” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/32e7be8c-b05c-46b2-9b5f-73c4d273ca59/releases/1.0.0/
 - **Centre for Spatial Analysis and Policy (CSAP) Cluster Meeting 2021**: Title: Investigating the emergence of complex behaviours in an agent-based model using reinforcement learning. Retrieved from: <a href="https://github.com/SedarOlmez94/sedarolmez.git.io/blob/master/sedar_olmez_CSAP2021.pdf" target="_blank">Slides</a>
 - Paper titled: **Exploring the Impact of Driver Adherence to Speed Limits and the Interdependence of Roadside Collisions in an Urban Environment: An Agent-Based Modelling Approach**: Publication date: 08/06/2021. Retrieved from: https://doi.org/10.3390/app11125336
+- **Data CDT Partnership Event 2021**: Title: Investigating Crime Displacement Theory: an Agent-Based Reinforcement Learning Approach. Retrieved from: <a href="https://github.com/SedarOlmez94/sedarolmez.git.io/blob/master/CDT_partner_event_Sedar.pdf" target="_blank">Slides</a>
 
 
 ## Papers reviewed
